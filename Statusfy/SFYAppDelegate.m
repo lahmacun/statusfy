@@ -59,7 +59,7 @@ static NSString * const SFYPlayerDockIconPreferenceKey = @"YES";
         NSString *currentVolume = [[getCurrentVolume executeAndReturnError:nil] stringValue];
         NSLog(@"%@", currentVolume);
         
-        if ([artistName  isEqual: nil]) {
+        if ([artistName  isEqual: @""]) {
             NSAppleScript* as = [[NSAppleScript alloc] initWithSource:@"set volume 0"];
             [as executeAndReturnError:nil];
 //            NSAppleScript	*muteSpotifyScript; //this would be in the header.
