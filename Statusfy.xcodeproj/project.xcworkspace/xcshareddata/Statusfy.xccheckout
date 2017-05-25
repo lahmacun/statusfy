@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4D1FE8D5-D7FF-49D6-A628-045294B06A2F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Statusfy</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>62A427AD95A5799EE9578E10B31493898DB61DBF</key>
+		<string>github.com:paulyoung/Statusfy.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Statusfy.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>62A427AD95A5799EE9578E10B31493898DB61DBF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:paulyoung/Statusfy.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>62A427AD95A5799EE9578E10B31493898DB61DBF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>62A427AD95A5799EE9578E10B31493898DB61DBF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Statusfy</string>
+		</dict>
+	</array>
+</dict>
+</plist>
