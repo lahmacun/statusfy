@@ -1,3 +1,5 @@
+Just some kind of test.
+
 Statusfy
 ========
 
